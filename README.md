@@ -14,6 +14,8 @@ V is a simple language for building maintainable programs. It has the power and 
 4. [leap](https://github.com/bartossh/algo_vlang/blob/main/leap/README.md) 
 5. [luhn](https://github.com/bartossh/algo_vlang/blob/main/luhn/README.md) 
 6. [reverse-string](https://github.com/bartossh/algo_vlang/blob/main/reverse-string/README.md)
+7. [resistor-color](https://github.com/bartossh/algo_vlang/blob/main/resistor-color/README.md)
+8. [space-age](https://github.com/bartossh/algo_vlang/blob/main/space-age/README.md)
 
 ## Dependencies:
 
