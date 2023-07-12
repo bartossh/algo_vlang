@@ -18,6 +18,7 @@ V is a simple language for building maintainable programs. It has the power and 
 8. [space-age](https://github.com/bartossh/algo_vlang/blob/main/space-age/README.md)
 9. [triangle](https://github.com/bartossh/algo_vlang/blob/main/triangle/README.md)
 10. [protein-translation](https://github.com/bartossh/algo_vlang/blob/main/protein-translation/README.md)
+11. [grains](https://github.com/bartossh/algo_vlang/blob/main/grains/README.md)
 
 ## Dependencies:
 
