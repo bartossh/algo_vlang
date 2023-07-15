@@ -21,6 +21,7 @@ V is a simple language for building maintainable programs. It has the power and 
 11. [grains](https://github.com/bartossh/algo_vlang/blob/main/grains/README.md)
 12. [panagram](https://github.com/bartossh/algo_vlang/blob/main/panagram/README.md)
 13. [two-fer](https://github.com/bartossh/algo_vlang/blob/main/two-fer/README.md)
+14. [raindrops](https://github.com/bartossh/algo_vlang/blob/main/raindrops/README.md)
 
 ## Dependencies:
 
